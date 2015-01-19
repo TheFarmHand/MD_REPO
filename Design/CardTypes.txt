@@ -1,0 +1,17 @@
+Card Types
+
+---------------
+
+Training Cards / allows improvement of militia - costs food. Units with simple power levels growing in strength relitive to cost.
+
+@@@!!@@@@!!@@@
+
+Engineering Cards / allows manipulation of the battlegroud - costs wood. Traps and Walls, this allows damage and area denial. these structure are destructible and are non refundable.
+
+@@@!!@@@@!!@@@
+
+Tactics Cards / allows modification of units - costs gold and wood. Special weapons and formations, this allows you to give units advantages in combat. These advantages are temporary and last for the next battle.
+
+@@@!!@@@@!!@@@
+
+Edicts Cards / allows adaptation of resources - costs gold. Buldings, additional workers and orders from the king, this allows the player to plan longer term strategies and ultimately be the deciding factor.
