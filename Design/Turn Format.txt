@@ -1,0 +1,19 @@
+Turn Format
+
+-------------------
+
+*1. Players are randomly given 10 cards from card pool.
+2. Players are given base resorces.
+3. The town produces a basic milita unit OR produces gold. (If town is producing a milita it creates one every two turns, Gold is produced every turn.
+4. A player is randomly selected to go first. The player who goes first does not collect additional resorces during his turn.
+5. Players are allowed to play as many cards as they can during a turn, given they have the resorces.
+6. Cards played during the players turn are resolved unless otherwise specifed by the card and its effects are followed.
+*7. The player must pay upkeep cost. Upkeep is a gold cost and is based on the number of units you control. the more units of higher power the more gold you must pay to keep them. if unable to pay upkeep, the player will enter anarchy and begin losing his units one per turn, starting with the least powerful. You enter anarchy anytime your gold treasury enters zero.
+*8. The player may now pay repair costs. Repair is a wood cost and used to fix buildings on the battlefield. Buildings that are damaged take more damage than if they were at full health.
+9. Any unused cards in the Players hand are discarded and removed from the card pool. If every card in the card pool has been drawn and discarded, all discarded cards are shuffled and placed back into the card pool.
+10. The Players turn has now ended and now the other players turn begins.
+
+*subject to change
+
+
+\\\\ if we want to have more than two players, we will need to add stages that allow other players to retaliate during others turns. Otherwise, when single players get focused it becomes impossable to win. 
