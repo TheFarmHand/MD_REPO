@@ -1,3 +1,4 @@
+
 Card Types
 
 ---------------
@@ -15,3 +16,13 @@ Tactics Cards / allows modification of units - costs gold and wood. Special weap
 @@@!!@@@@!!@@@
 
 Edicts Cards / allows adaptation of resources - costs gold. Buldings, additional workers and orders from the king, this allows the player to plan longer term strategies and ultimately be the deciding factor.
+
+
+<><><><><><><>
+
+Unit Improvement
+
+----------------
+
+*depending on the unit type (archer, infantry, calvary, sappers) grants a special ability in combat, for example: when attacked infanty are allowed a counter attack, archers can attack from one space over, calvary are allowed to attack twice in a turn, and sappers deal double damage to buildings. These buildings allow for more strategies without adding to much complexity in other places.
+*subject to change 
